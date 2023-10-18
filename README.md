@@ -25,6 +25,14 @@
 <a href="https://github.com/eckolp2003">
     <img src="https://github-stats-alpha.vercel.app/api?username=eckolp2003&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+<br/>
+</a>  
+
+<img src="https://github.com/eckolp2003/eckolp2003/blob/b8f40e0e11159fc48daa18a03afe34ac6c5e5729/aws-certified-solutions-architect-professional%20(2).png"> <img src="https://github.com/eckolp2003/eckolp2003/blob/8fecb05e786c3072002a5499dd67522536c0917d/aws-certified-security-specialty%20(1).png">
+
+    
+</a>  
+<br/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eckolp2003&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
