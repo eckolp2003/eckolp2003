@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m Ben Collar currently working on __AWS__, __Cloud__, __Cybersecurity__
+- 🔭 I’m Ben Collar currently working on __AWS__, __AI__, __Cloud__, __Cybersecurity__
 -
 
 
